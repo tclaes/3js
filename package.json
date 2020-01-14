@@ -1,0 +1,23 @@
+{
+  "name": "3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tclaes/3js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tclaes/3js/issues"
+  },
+  "homepage": "https://github.com/tclaes/3js#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
